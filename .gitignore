@@ -1,0 +1,4 @@
+/data
+*.pth
+/model/__pycache__
+/utils/__pycache__
